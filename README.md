@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mgilbert82
-- 👀 I’m interested in ..PHP, HTML, CSS, Javascript, Swift
-- 🌱 I’m currently learning ...le  PHP
-- 💞️ I’m looking to collaborate on ... PHP, javascript and swift.
+- 👀 I’m interested in ..PHP, HTML, CSS, Javascript, Angular, React
+- 🌱 I’m currently learning ...Angular
+- 💞️ I’m looking to collaborate on ... PHP, javascript and Angular.
 - 📫 How to reach me ...on mail michelgilbert@hotmail.fr
 
 <!---
